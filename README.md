@@ -1,4 +1,6 @@
 # A Semantic-based Medical Image Fusion Approach
+This is the code implementation of the paper "A Semantic-based Medical Image Fusion Approach"
+
 ## Dependencies
 Contents of requirements.txt:
 
